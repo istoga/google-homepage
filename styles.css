@@ -1,0 +1,53 @@
+body {
+    background-color: white);
+    margin-top: 7%;
+  }
+  li {
+    display: inline;
+  }
+  ul {
+    
+    background-color: ##ffffff;
+    padding: 7%;
+  }
+  
+  li a {
+    color: #666;
+    text-decoration: none;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    width: 20%;
+  }
+
+ form {
+    text-align: center
+    display: block; 
+    width:100%;
+}   
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  li {
+    display: inline;
+  }
+  ul {
+    
+    background-color: ##ffffff;
+  }
+  
+  li a {
+    color: #666;
+  }
